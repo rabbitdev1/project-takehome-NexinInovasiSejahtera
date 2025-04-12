@@ -73,3 +73,7 @@ Untuk mengerjakan tugas ini, saya telah membangun **aplikasi web berbasis React.
 3. Jalankan perintah berikut untuk menginstal dependensi:
    ```bash
    npm install
+4. Jalankan perintah berikut untuk menginstal dependensi:
+   ```bash
+   npm start
+4. Aplikasi akan berjalan di browser pada http://localhost:3000.
